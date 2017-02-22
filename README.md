@@ -11,7 +11,7 @@ https://github.com/silkimen/cordova-plugin-advanced-http
 wifiwizard to do cool wifiy stuff. This isn't IOS compatible as far as I can tell...who knows apple sucks.
 Wifi Wizard Plugin from here: https://github.com/hoerresb/WifiWizard
 
-This really just helps simplefy the connection process. In the code, it searches for the Theta wifi SSID, pulls out the serial number and uses that for the password. This won't work if the password or SSID has been changed (not sure if it is possible to change the SSID). 
+This really just helps simplify the connection process. In the code, it searches for the Theta wifi SSID, pulls out the serial number and uses that for the password. This won't work if the password or SSID has been changed (not sure if it is possible to change the SSID). 
 
 2) I'm using Sencha EXTJS 6 Modern framework for building the app UI. So you'll see some references below on those pieces. (Ext.VIewport and stuff, totally not needed for most people).
 
